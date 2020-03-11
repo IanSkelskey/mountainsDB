@@ -22,3 +22,7 @@ FROM mountainsDB;
 
 .print
 .print 'US State Highest Peak Ascents'
+SELECT name AS name
+
+
+FROM mountainsDB
